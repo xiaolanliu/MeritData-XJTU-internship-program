@@ -6,7 +6,7 @@
 能耗数据来自商业园区的智能计量设备，额外附带环境温度气象传感器记录。时间范围为2016全年。  
 能级（3_levels、5_levels 和 7_levels）是通过使用统计数据或一些函数将数据切割成 n 个档位（3、5、7） 来产生的。  
 **Reference: "Devising Hourly Forecasting Solutions Regarding Electricity Consumption in the Case of Commercial Center Type Consumers." 
-(published in Energies 10.11 (2017): 1727) with the new added attributes on its energy levels.**
+(published in Energies 10.11 (2017): 1727) with the new added attributes on its energy levels. https://data.mendeley.com/datasets/n85kwcgt7t/1**
 
 
 ### 2.2 Dataset on Hourly Load Profiles for a Set of 24 Facilities from Industrial, Commercial, and Residential End-use Sectors ###
@@ -14,7 +14,7 @@
 以及通过使用EnergyPlus适应美国新泽西州气候区的18个模拟建筑。  
 该数据集可用于对单节点和多节点能源系统进行建模，例如纳米电网、微电网或配电网络中的任何集成系统，其中每栋建筑都由其反映其电力消耗行为的负载分布定义。
 **Reference:“Dataset on Hourly Load Profiles for a Set of 24 Facilities from Industrial, Commercial,
-and Residential End-use Sectors”, Angizeh, Farhad; Ghofrani, Ali; Jafari, Mohsen A. (2020), Mendeley Data, V1, doi: 10.17632/rfnp2d3kjp.1**
+and Residential End-use Sectors”, Angizeh, Farhad; Ghofrani, Ali; Jafari, Mohsen A. (2020), Mendeley Data, V1. https://data.mendeley.com/datasets/rfnp2d3kjp/1**
 
 
 ## 三、电费账单还原
